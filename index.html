@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>English C1 App — Memorización Activa</title>
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <section id="gate-screen" class="gate-wrap">
+    <div class="card gate-card">
+      <span class="label">C1 SECRET PASSKEY · FIELD CHECKPOINT</span>
+      <h1 class="gate-title">Halt! Who goes there?</h1>
+      <p class="gate-copy">
+        Welcome to the C1 vault. Whisper the magic passphrase to unlock your daily training mission.
+      </p>
+      <p class="gate-hint">
+        Hint: It’s your own first name—no fancy spy cipher required, just pure C1 swagger.
+      </p>
+
+      <form id="gate-form" class="gate-form">
+        <label for="gate-input" class="sr-only">Secret passphrase</label>
+        <input
+          id="gate-input"
+          type="password"
+          autocomplete="off"
+          placeholder="Enter the secret passphrase..."
+        />
+        <button type="submit" class="primary gate-btn">Unlock Vault</button>
+      </form>
+      <p id="gate-error" class="gate-error hidden"></p>
+    </div>
+  </section>
+
+  <main id="app-shell" class="container hidden">
+    <header class="topbar">
+      <h1>English C1 App</h1>
+      <div class="topbar-pills">
+        <span id="corpus-status" class="badge">Cargando...</span>
+        <span id="streak-pill" class="streak-pill">🔥 Racha: 0d</span>
+        <span id="xp-pill" class="xp-pill">XP: 0</span>
+        <button id="btn-toggle-stats" type="button" class="secondary-btn">📊 Estadísticas</button>
+        <button id="btn-lock-gate" type="button" class="secondary-btn" title="Bloquear acceso">🔒</button>
+      </div>
+    </header>
+
+    <div id="training-view" class="stack">
+      <section class="card setup-card">
+        <div class="setup-grid">
+          <div class="field">
+            <label for="priority-select">Prioridad de palabras</label>
+            <select id="priority-select">
+              <option value="cefr_high">Nivel más alto primero (C2 → A1)</option>
+              <option value="high_freq">Mayor repetición / frecuencia</option>
+              <option value="balanced">Equilibrado (Nivel + Frecuencia)</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="category-select">Categoría / Contexto</label>
+            <select id="category-select">
+              <option value="all">Todas las categorías</option>
+            </select>
+          </div>
+
+          <div class="field">
+            <label for="mode-select">Modo de sesión (4 pasadas)</label>
+            <select id="mode-select">
+              <option value="mixed">Mixto inteligente</option>
+              <option value="failed_only">Solo palabras falladas</option>
+              <option value="new_only">Solo palabras nuevas</option>
+              <option value="review_hard">Repaso y palabras difíciles</option>
+              <option value="writing">Enfoque en escritura</option>
+              <option value="night_quick">Sesión rápida nocturna</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="setup-footer">
+          <span id="session-summary" class="muted-inline">Listo para armar cola</span>
+          <button id="btn-start-session" type="button" class="primary">Nueva sesión</button>
+        </div>
+      </section>
+
+      <section id="study-card" class="card study-section">
+        <div class="card-header-row">
+          <span id="step-label" class="label">PASO DE SESIÓN</span>
+          <span id="role-pill" class="role-pill">—</span>
+        </div>
+
+        <div id="action-banner" class="action-banner action-write">
+          <span id="action-banner-title" class="action-banner-title">⌨️ ESCRIBIR PALABRA</span>
+          <span id="action-banner-sub" class="action-banner-sub">Escribe el término en inglés</span>
+        </div>
+
+        <div class="zone-box stimulus-zone">
+          <span class="zone-tag">ESTÍMULO / SIGNIFICADO</span>
+          <h2 id="prompt-main">—</h2>
+          <p id="prompt-sub" class="muted"></p>
+          <p id="meta-info" class="meta"></p>
+        </div>
+
+        <div id="mnemonic-box" class="zone-box mnemonic-zone">
+          <div class="mnemonic-header">
+            <span class="zone-tag">💡 MNEMOTECNIA / ANCLA MENTAL</span>
+            <button id="btn-speak-mnemonic" type="button" class="secondary-btn">🔊 Escuchar ancla (ES)</button>
+          </div>
+          <p id="mnemonic-text" class="mnemonic-text">—</p>
+        </div>
+
+        <div class="zone-box response-zone">
+          <span class="zone-tag">AUDIO Y RESPUESTA</span>
+
+          <div class="audio-toolbar">
+            <button id="btn-speak-normal" type="button" class="secondary-btn">🔊 Escuchar (normal)</button>
+            <button id="btn-speak-slow" type="button" class="secondary-btn">🐢 Lento</button>
+            <button id="btn-speak-example" type="button" class="secondary-btn">💬 Frase</button>
+            <button id="btn-mic" type="button" class="mic-btn">🎙️ Pronunciar / Shadowing</button>
+          </div>
+          <p id="voice-status" class="voice-status hidden"></p>
+
+          <form id="answer-form" class="answer-box">
+            <input
+              id="answer-input"
+              type="text"
+              autocomplete="off"
+              autocapitalize="none"
+              spellcheck="false"
+              placeholder="Escribe en inglés o usa el micrófono..."
+            />
+            <div class="actions">
+              <button id="btn-skip" type="button">No lo sé (fallar)</button>
+              <button id="btn-check" type="submit" class="primary">Comprobar</button>
+            </div>
+          </form>
+        </div>
+
+        <div id="feedback-panel" class="feedback hidden">
+          <p id="feedback-status" class="feedback-title"></p>
+          <p id="feedback-solution" class="feedback-solution"></p>
+          <div class="feedback-details">
+            <p><strong>Pronunciación:</strong> <span id="fb-pron">—</span></p>
+            <p><strong>Ancla mental:</strong> <span id="fb-anchor">—</span></p>
+            <p><strong>Ejemplo:</strong> <span id="fb-example">—</span></p>
+            <p class="muted-small"><span id="fb-translation">—</span></p>
+          </div>
+          <div class="actions">
+            <button id="btn-fb-listen" type="button" class="secondary-btn">🔊 Repetir término</button>
+            <button id="btn-fb-example" type="button" class="secondary-btn">💬 Escuchar frase</button>
+            <button id="btn-next-card" type="button" class="primary">Siguiente</button>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <section id="stats-view" class="card stats-section hidden">
+      <div class="card-header-row">
+        <span class="label">PROGRESO, GRÁFICA, BADGES Y RESPALDO</span>
+        <div class="topbar-pills">
+          <button id="btn-toggle-glossary" type="button" class="secondary-btn">📖 Glosario y siglas</button>
+          <button id="btn-back-training" type="button" class="secondary-btn">← Volver a estudiar</button>
+        </div>
+      </div>
+
+      <div id="glossary-box" class="glossary-panel hidden">
+        <h3>Glosario de siglas, términos y campos del JSON</h3>
+        <div class="glossary-grid">
+          <div class="glossary-item">
+            <strong>SM-2</strong>
+            <span>Algoritmo de repetición espaciada que calcula cuándo volver a repasar una palabra según tus aciertos y facilidad.</span>
+          </div>
+          <div class="glossary-item">
+            <strong>CEFR (A1 → C2)</strong>
+            <span>Marco Común Europeo de Referencia para el nivel de idioma, desde básico (A1/A2) hasta intermedio alto (B2) y dominio (C1/C2).</span>
+          </div>
+          <div class="glossary-item">
+            <strong>Total_Freq</strong>
+            <span>Frecuencia o repetición registrada del término en el corpus para priorizar las palabras con mayor peso práctico.</span>
+          </div>
+          <div class="glossary-item">
+            <strong>TTS y Shadowing</strong>
+            <span><em>Text-to-Speech</em> lee en voz alta; <em>Shadowing</em> captura tu voz con el micrófono para repetir y entrenar pronunciación.</span>
+          </div>
+          <div class="glossary-item">
+            <strong>localStorage</strong>
+            <span>Almacenamiento local del navegador donde queda guardado tu progreso en cada equipo (PC o celular).</span>
+          </div>
+          <div class="glossary-item">
+            <strong>Letras en el JSON (e, i, r, n, err, exp, stage)</strong>
+            <span><code>e</code>: factor de facilidad · <code>i</code>: intervalo en días · <code>r</code>: racha de aciertos · <code>n</code>: próxima fecha · <code>err</code>: errores · <code>exp</code>: exposiciones · <code>stage</code>: etapa (0–2).</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="stats-kpis">
+        <div class="kpi-box">
+          <span class="kpi-label">Iniciadas</span>
+          <strong id="stat-started" class="kpi-value">0</strong>
+        </div>
+        <div class="kpi-box">
+          <span class="kpi-label">Consolidadas</span>
+          <strong id="stat-mastered" class="kpi-value">0</strong>
+        </div>
+        <div class="kpi-box">
+          <span class="kpi-label">Exposiciones</span>
+          <strong id="stat-exposures" class="kpi-value">0</strong>
+        </div>
+      </div>
+
+      <div class="stats-block">
+        <h3>Consolidadas vs. Pendientes del corpus</h3>
+        <div class="chart-card">
+          <div class="chart-legend">
+            <span class="legend-item"><i class="dot ok-dot"></i> Consolidadas: <strong id="chart-mastered-txt">0</strong></span>
+            <span class="legend-item"><i class="dot pending-dot"></i> Pendientes: <strong id="chart-pending-txt">0</strong></span>
+          </div>
+          <div class="progress-bar-track" role="img" aria-label="Consolidadas versus pendientes">
+            <div id="chart-mastered-bar" class="progress-bar-fill" style="width: 0%;"></div>
+          </div>
+          <p id="chart-pct-txt" class="muted-small">0% consolidado del corpus</p>
+        </div>
+      </div>
+
+      <div class="stats-block">
+        <h3>Badges</h3>
+        <div id="badges-list" class="badges-grid"></div>
+      </div>
+
+      <div class="stats-block">
+        <h3>Actividad últimos 7 días</h3>
+        <div id="week-grid" class="week-grid"></div>
+      </div>
+
+      <div class="stats-block">
+        <h3>Palabras aprendidas por nivel (CEFR)</h3>
+        <div id="cefr-grid" class="cefr-level-grid"></div>
+      </div>
+
+      <div class="stats-block">
+        <h3>Top 10 palabras con más errores</h3>
+        <ul id="top-errors-list" class="errors-list"></ul>
+      </div>
+
+      <div class="stats-block backup-box">
+        <h3>Exportar frecuencia/nivel (CSV) y Respaldo (.json)</h3>
+        <p class="muted-small">Descarga el listado ordenado por repetición y nivel CEFR, o respalda/restaura tu progreso en JSON.</p>
+        <div class="actions">
+          <button id="btn-export-csv" type="button" class="secondary-btn">📄 Descargar CSV (Frecuencia y Nivel)</button>
+          <button id="btn-export-json" type="button" class="primary">⬇️ Exportar progreso (.json)</button>
+          <button id="btn-import-trigger" type="button" class="secondary-btn">⬆️ Importar progreso (.json)</button>
+          <input id="import-file-input" type="file" accept="application/json,.json" class="hidden" />
+        </div>
+        <p id="backup-status" class="muted-small"></p>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/storage.js"></script>
+  <script src="js/sm2.js"></script>
+  <script src="js/audio.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>
