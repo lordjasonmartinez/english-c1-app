@@ -109472,5 +109472,1661 @@
     "Sources": [
       "canciones"
     ]
+  },
+  {
+    "ID": "5099",
+    "Term_EN": "To spearhead",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Liderar / Encabezar",
+    "Pronunciation_ES": "tu SPI-jer-jed",
+    "Mnemonic_Anchor": "Imagina ir al frente de una lanza abriendo camino en un proyecto clave.",
+    "Example_Sentence": "I spearhead cross-functional analytics initiatives across regional markets.",
+    "Example_Translation": "Lidero iniciativas de analítica multifuncional en mercados regionales.",
+    "Difficulty_Tags": [
+      "liderazgo",
+      "entrevistas"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5100",
+    "Term_EN": "To orchestrate",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Orquestar / Coordinar",
+    "Pronunciation_ES": "tu OR-kes-treit",
+    "Mnemonic_Anchor": "Como un director de orquesta coordinando a cada músico para que suene a tiempo.",
+    "Example_Sentence": "We orchestrated the rollout across multiple teams without disrupting operations.",
+    "Example_Translation": "Coordinamos el despliegue entre varios equipos sin interrumpir las operaciones.",
+    "Difficulty_Tags": [
+      "coordinacion",
+      "proyectos"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5101",
+    "Term_EN": "To leverage",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Apalancarse / Aprovechar",
+    "Pronunciation_ES": "tu LE-ve-rich",
+    "Mnemonic_Anchor": "Usar una palanca para mover una carga pesada con mucho menos esfuerzo.",
+    "Example_Sentence": "We leverage historical performance data to prioritize high-impact accounts.",
+    "Example_Translation": "Aprovechamos datos históricos de desempeño para priorizar cuentas de alto impacto.",
+    "Difficulty_Tags": [
+      "estrategia",
+      "negocios"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5102",
+    "Term_EN": "To streamline",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Optimizar / Agilizar",
+    "Pronunciation_ES": "tu STRIM-lain",
+    "Mnemonic_Anchor": "Darle forma aerodinámica a un proceso para que fluya sin fricción.",
+    "Example_Sentence": "I streamlined the reporting pipeline to cut manual work in half.",
+    "Example_Translation": "Agilicé el flujo de reportes para reducir a la mitad el trabajo manual.",
+    "Difficulty_Tags": [
+      "eficiencia",
+      "procesos"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5103",
+    "Term_EN": "Actionable insights",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Hallazgos accionables",
+    "Pronunciation_ES": "AK-sho-na-bol IN-saits",
+    "Mnemonic_Anchor": "Un hallazgo que no se queda en teoría, sino que dispara una acción concreta.",
+    "Example_Sentence": "The dashboard turns raw numbers into actionable insights for commercial leads.",
+    "Example_Translation": "El tablero convierte datos brutos en hallazgos accionables para líderes comerciales.",
+    "Difficulty_Tags": [
+      "bi",
+      "analitica"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5104",
+    "Term_EN": "Stakeholder management",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Gestión de interesados",
+    "Pronunciation_ES": "STEIK-jol-der MA-nech-ment",
+    "Mnemonic_Anchor": "Mantener alineados a directores, clientes y áreas clave durante todo el proyecto.",
+    "Example_Sentence": "Strong stakeholder management kept expectations aligned across finance and sales.",
+    "Example_Translation": "Una sólida gestión de interesados mantuvo alineadas las expectativas entre finanzas y ventas.",
+    "Difficulty_Tags": [
+      "gestion",
+      "comunicacion"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5105",
+    "Term_EN": "Scalability",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Escalabilidad",
+    "Pronunciation_ES": "skei-la-BI-li-ti",
+    "Mnemonic_Anchor": "Que una solución funcione igual de bien con 100 registros que con 10 millones.",
+    "Example_Sentence": "We designed the data model with scalability in mind for future markets.",
+    "Example_Translation": "Diseñamos el modelo de datos pensando en la escalabilidad para futuros mercados.",
+    "Difficulty_Tags": [
+      "arquitectura",
+      "crecimiento"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5106",
+    "Term_EN": "To pinpoint",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Precisar / Dar en el clavo",
+    "Pronunciation_ES": "tu PIN-point",
+    "Mnemonic_Anchor": "Clavar un alfiler exacto sobre el mapa donde ocurre el problema.",
+    "Example_Sentence": "Our analysis helped pinpoint the exact region driving the drop in volume.",
+    "Example_Translation": "Nuestro análisis ayudó a precisar la región exacta que impulsaba la caída de volumen.",
+    "Difficulty_Tags": [
+      "diagnostico",
+      "precision"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5107",
+    "Term_EN": "To bridge the gap",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Cerrar la brecha",
+    "Pronunciation_ES": "tu BRICH de GAP",
+    "Mnemonic_Anchor": "Tender un puente firme entre dos orillas separadas, como datos y negocio.",
+    "Example_Sentence": "This tool bridges the gap between technical data teams and executive decisions.",
+    "Example_Translation": "Esta herramienta cierra la brecha entre los equipos técnicos de datos y las decisiones ejecutivas.",
+    "Difficulty_Tags": [
+      "alineacion",
+      "estrategia"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5108",
+    "Term_EN": "Mission-critical",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Vital / Crítico",
+    "Pronunciation_ES": "MI-shon CRI-ti-cal",
+    "Mnemonic_Anchor": "Si falla este componente, toda la misión del día se detiene.",
+    "Example_Sentence": "Daily inventory tracking is mission-critical for commercial execution.",
+    "Example_Translation": "El seguimiento diario de inventario es crítico para la ejecución comercial.",
+    "Difficulty_Tags": [
+      "prioridad",
+      "operaciones"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5109",
+    "Term_EN": "Bespoke reports",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Reportes a la medida",
+    "Pronunciation_ES": "bi-SPOUK ri-PORTS",
+    "Mnemonic_Anchor": "Como un traje hecho a la medida de un sastre para un cliente específico.",
+    "Example_Sentence": "We build bespoke reports tailored to each account director's KPIs.",
+    "Example_Translation": "Construimos reportes a la medida adaptados a los KPIs de cada director de cuenta.",
+    "Difficulty_Tags": [
+      "reporting",
+      "bi"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5110",
+    "Term_EN": "To mitigate risks",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Mitigar riesgos",
+    "Pronunciation_ES": "tu MI-ti-gueit RISKS",
+    "Mnemonic_Anchor": "Poner barreras preventivas antes de que un riesgo se convierta en crisis.",
+    "Example_Sentence": "We validate source data early to mitigate risks during client presentations.",
+    "Example_Translation": "Validamos los datos de origen temprano para mitigar riesgos en presentaciones a clientes.",
+    "Difficulty_Tags": [
+      "riesgos",
+      "control"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5111",
+    "Term_EN": "Data-driven roadmap",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Hoja de ruta por datos",
+    "Pronunciation_ES": "DEI-ta DRI-ven ROUD-map",
+    "Mnemonic_Anchor": "Un mapa de ruta trazado con evidencia y métricas, no por intuición a ciegas.",
+    "Example_Sentence": "The quarterly plan follows a data-driven roadmap backed by market trends.",
+    "Example_Translation": "El plan trimestral sigue una hoja de ruta basada en datos respaldada por tendencias de mercado.",
+    "Difficulty_Tags": [
+      "planeacion",
+      "datos"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5112",
+    "Term_EN": "Cross-functional",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Interdepartamental",
+    "Pronunciation_ES": "cros FANC-sho-nal",
+    "Mnemonic_Anchor": "Cruzar distintos departamentos —como ventas, marketing y TI— en un mismo objetivo.",
+    "Example_Sentence": "I regularly lead cross-functional calls to align commercial and analytics goals.",
+    "Example_Translation": "Con frecuencia lidero reuniones interdepartamentales para alinear metas comerciales y analíticas.",
+    "Difficulty_Tags": [
+      "equipos",
+      "colaboracion"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5113",
+    "Term_EN": "High-profile accounts",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Cuentas de alto nivel",
+    "Pronunciation_ES": "jai PRO-fail a-CAUNTS",
+    "Mnemonic_Anchor": "Cuentas estratégicas de gran visibilidad donde cada detalle tiene alto impacto.",
+    "Example_Sentence": "Managing high-profile accounts requires clear storytelling and rock-solid accuracy.",
+    "Example_Translation": "Gestionar cuentas de alto nivel exige una narrativa clara y precisión impecable.",
+    "Difficulty_Tags": [
+      "cuentas",
+      "clientes"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5114",
+    "Term_EN": "Proprietary data",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Datos propios / Privados",
+    "Pronunciation_ES": "pro-PRAI-e-te-ri DEI-ta",
+    "Mnemonic_Anchor": "Información propietaria de la organización que exige confidencialidad y cuidado.",
+    "Example_Sentence": "We combine proprietary data with external market benchmarks for deeper context.",
+    "Example_Translation": "Combinamos datos propios con referencias externas de mercado para mayor contexto.",
+    "Difficulty_Tags": [
+      "datos",
+      "gobernanza"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5115",
+    "Term_EN": "Complex hurdles",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Obstáculos complejos",
+    "Pronunciation_ES": "COM-pleks JER-dols",
+    "Mnemonic_Anchor": "Vallas altas en una pista de obstáculos que exigen técnica para saltarlas.",
+    "Example_Sentence": "Our team overcame complex hurdles around fragmented legacy data sources.",
+    "Example_Translation": "Nuestro equipo superó obstáculos complejos relacionados con fuentes de datos heredadas fragmentadas.",
+    "Difficulty_Tags": [
+      "retos",
+      "resolucion"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5116",
+    "Term_EN": "Data integrity",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Integridad de datos",
+    "Pronunciation_ES": "DEI-ta in-TE-gri-ti",
+    "Mnemonic_Anchor": "Que los datos lleguen completos, consistentes y sin alteraciones de punta a punta.",
+    "Example_Sentence": "Automated checks protect data integrity before dashboards reach stakeholders.",
+    "Example_Translation": "Las validaciones automáticas protegen la integridad de los datos antes de llegar a los interesados.",
+    "Difficulty_Tags": [
+      "calidad-datos",
+      "bi"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5117",
+    "Term_EN": "To derive insights",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Extraer conclusiones",
+    "Pronunciation_ES": "tu di-RAIV IN-saits",
+    "Mnemonic_Anchor": "Destilar o extraer conclusiones valiosas a partir de una base de datos amplia.",
+    "Example_Sentence": "We derive insights from customer behavior to refine campaign targeting.",
+    "Example_Translation": "Extraemos conclusiones del comportamiento de clientes para refinar la segmentación de campañas.",
+    "Difficulty_Tags": [
+      "analisis",
+      "datos"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5118",
+    "Term_EN": "Underlying logic",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Lógica subyacente",
+    "Pronunciation_ES": "an-der-LAI-ing LO-chik",
+    "Mnemonic_Anchor": "La regla o mecanismo oculto por debajo de un resultado visible.",
+    "Example_Sentence": "Before changing the formula, let's review the underlying logic of the metric.",
+    "Example_Translation": "Antes de cambiar la fórmula, revisemos la lógica subyacente de la métrica.",
+    "Difficulty_Tags": [
+      "logica",
+      "analisis"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5119",
+    "Term_EN": "Predictive modeling",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Modelado predictivo",
+    "Pronunciation_ES": "pri-DIK-tiv MO-de-ling",
+    "Mnemonic_Anchor": "Construir un modelo estadístico para anticipar escenarios futuros probables.",
+    "Example_Sentence": "Predictive modeling helps us estimate demand shifts ahead of seasonal peaks.",
+    "Example_Translation": "El modelado predictivo nos ayuda a estimar cambios de demanda antes de picos estacionales.",
+    "Difficulty_Tags": [
+      "modelado",
+      "analitica"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5120",
+    "Term_EN": "To refine",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Refinar / Pulir",
+    "Pronunciation_ES": "tu ri-FAIN",
+    "Mnemonic_Anchor": "Pulir un borrador o un modelo hasta dejarlo limpio y preciso.",
+    "Example_Sentence": "We refine the segmentation rules every quarter based on actual conversion.",
+    "Example_Translation": "Refinamos las reglas de segmentación cada trimestre según la conversión real.",
+    "Difficulty_Tags": [
+      "mejora",
+      "iteracion"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5121",
+    "Term_EN": "To diagnose",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Diagnosticar",
+    "Pronunciation_ES": "tu dai-ag-NOUS",
+    "Mnemonic_Anchor": "Identificar la causa raíz de un síntoma antes de aplicar el tratamiento.",
+    "Example_Sentence": "First we diagnose why sales slowed down before proposing corrective actions.",
+    "Example_Translation": "Primero diagnosticamos por qué se frenaron las ventas antes de proponer acciones correctivas.",
+    "Difficulty_Tags": [
+      "diagnostico",
+      "analisis"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5122",
+    "Term_EN": "To align",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Alinear",
+    "Pronunciation_ES": "tu a-LAIN",
+    "Mnemonic_Anchor": "Poner las piezas en línea recta para que todos remen hacia el mismo lado.",
+    "Example_Sentence": "Let's align on definitions and timelines before starting the build.",
+    "Example_Translation": "Alineémonos en definiciones y cronogramas antes de iniciar la construcción.",
+    "Difficulty_Tags": [
+      "alineacion",
+      "reuniones"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5123",
+    "Term_EN": "Robust framework",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Marco de trabajo robusto",
+    "Pronunciation_ES": "ro-BAST FREIM-work",
+    "Mnemonic_Anchor": "Una estructura sólida y probada que soporta cambios sin venirse abajo.",
+    "Example_Sentence": "We built a robust framework to evaluate campaign ROI consistently.",
+    "Example_Translation": "Construimos un marco de trabajo robusto para evaluar el ROI de campañas de forma consistente.",
+    "Difficulty_Tags": [
+      "metodologia",
+      "estructura"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5124",
+    "Term_EN": "Customer journey",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Viaje del cliente",
+    "Pronunciation_ES": "CAS-to-mer CHER-ni",
+    "Mnemonic_Anchor": "Recorrer paso a paso cada punto de contacto desde que el cliente conoce la marca.",
+    "Example_Sentence": "Mapping the customer journey reveals where prospects drop off in the funnel.",
+    "Example_Translation": "Mapear el viaje del cliente revela dónde abandonan los prospectos en el embudo.",
+    "Difficulty_Tags": [
+      "cliente",
+      "experiencia"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5125",
+    "Term_EN": "Data-driven pivots",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Giros basados en datos",
+    "Pronunciation_ES": "DEI-ta DRI-ven PI-vots",
+    "Mnemonic_Anchor": "Cambiar de dirección sobre un pivote cuando los datos muestran mejor camino.",
+    "Example_Sentence": "Fast data-driven pivots allowed us to reallocate budget toward top channels.",
+    "Example_Translation": "Los giros rápidos basados en datos nos permitieron reasignar presupuesto a los mejores canales.",
+    "Difficulty_Tags": [
+      "agilidad",
+      "estrategia"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5126",
+    "Term_EN": "Business objectives",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Objetivos de negocio",
+    "Pronunciation_ES": "BIS-nes ob-CHEK-tivs",
+    "Mnemonic_Anchor": "La meta comercial concreta que justifica cada modelo o tablero que creas.",
+    "Example_Sentence": "Every analytic deliverable should tie directly back to business objectives.",
+    "Example_Translation": "Cada entregable analítico debe vincularse directamente con los objetivos de negocio.",
+    "Difficulty_Tags": [
+      "negocios",
+      "objetivos"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5127",
+    "Term_EN": "Core responsibilities",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Responsabilidades clave",
+    "Pronunciation_ES": "COR ri-spon-sa-BI-li-tis",
+    "Mnemonic_Anchor": "El núcleo central de funciones que definen tu rol día a día.",
+    "Example_Sentence": "My core responsibilities include automating KPIs and advising commercial leads.",
+    "Example_Translation": "Mis responsabilidades clave incluyen automatizar KPIs y asesorar a líderes comerciales.",
+    "Difficulty_Tags": [
+      "rol",
+      "entrevistas"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5128",
+    "Term_EN": "To assess outcomes",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Evaluar resultados",
+    "Pronunciation_ES": "tu a-SES OUT-cams",
+    "Mnemonic_Anchor": "Medir objetivamente qué pasó después de ejecutar una iniciativa.",
+    "Example_Sentence": "We assess outcomes against baseline targets thirty days after launch.",
+    "Example_Translation": "Evaluamos los resultados frente a la línea base treinta días después del lanzamiento.",
+    "Difficulty_Tags": [
+      "evaluacion",
+      "resultados"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5129",
+    "Term_EN": "Diverse portfolios",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Portafolios diversos",
+    "Pronunciation_ES": "dai-VERS port-FOU-lios",
+    "Mnemonic_Anchor": "Una canasta variada de líneas o productos con dinámicas distintas.",
+    "Example_Sentence": "Supporting diverse portfolios means adapting metrics to each product lifecycle.",
+    "Example_Translation": "Apoyar portafolios diversos significa adaptar las métricas al ciclo de vida de cada producto.",
+    "Difficulty_Tags": [
+      "portafolio",
+      "estrategia"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5130",
+    "Term_EN": "We will figure it out",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Lo resolveremos",
+    "Pronunciation_ES": "wi wil FI-guer it OUT",
+    "Mnemonic_Anchor": "Armar el rompecabezas paso a paso hasta encontrar la solución.",
+    "Example_Sentence": "If an edge case pops up in production, we will figure it out together.",
+    "Example_Translation": "Si surge un caso borde en producción, lo resolveremos juntos.",
+    "Difficulty_Tags": [
+      "actitud",
+      "resolucion"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5131",
+    "Term_EN": "MECE Principle",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Principio MECE",
+    "Pronunciation_ES": "MI-si PRIN-si-pol",
+    "Mnemonic_Anchor": "Mutuamente excluyentes y colectivamente exhaustivos: sin traslapes ni huecos.",
+    "Example_Sentence": "Structuring the deck around the MECE principle keeps arguments sharp and clear.",
+    "Example_Translation": "Estructurar la presentación bajo el principio MECE mantiene los argumentos claros y sin huecos.",
+    "Difficulty_Tags": [
+      "consultoria",
+      "estructura"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5132",
+    "Term_EN": "Proof-of-concept",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Prueba de concepto",
+    "Pronunciation_ES": "pruf ov CON-sept",
+    "Mnemonic_Anchor": "Un prototipo rápido para demostrar que la idea funciona antes de escalarla.",
+    "Example_Sentence": "We built a proof-of-concept in two weeks to validate feasibility with users.",
+    "Example_Translation": "Construimos una prueba de concepto en dos semanas para validar viabilidad con usuarios.",
+    "Difficulty_Tags": [
+      "innovacion",
+      "prototipo"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5133",
+    "Term_EN": "Legacy systems",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Sistemas heredados",
+    "Pronunciation_ES": "LE-ga-si SIS-tems",
+    "Mnemonic_Anchor": "Sistemas antiguos heredados de etapas anteriores que a veces cuestan integrar.",
+    "Example_Sentence": "Extracting clean tables from legacy systems took careful schema mapping.",
+    "Example_Translation": "Extraer tablas limpias de sistemas heredados requirió mapear bien el esquema.",
+    "Difficulty_Tags": [
+      "sistemas",
+      "datos"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5134",
+    "Term_EN": "Executive presence",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Presencia ejecutiva",
+    "Pronunciation_ES": "ig-ZEK-iu-tiv PRE-sens",
+    "Mnemonic_Anchor": "Transmitir calma, síntesis y seguridad al hablar frente a dirección general.",
+    "Example_Sentence": "Clear summaries and calm responses build executive presence in leadership reviews.",
+    "Example_Translation": "Resúmenes claros y respuestas serenas construyen presencia ejecutiva ante la dirección.",
+    "Difficulty_Tags": [
+      "entrevistas",
+      "comunicacion"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5135",
+    "Term_EN": "Intellectual hook",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Gancho persuasivo",
+    "Pronunciation_ES": "in-te-LEK-chu-al juk",
+    "Mnemonic_Anchor": "La idea inicial que atrapa la atención mental de quien te escucha en segundos.",
+    "Example_Sentence": "Start the pitch with an intellectual hook that challenges a common assumption.",
+    "Example_Translation": "Abre la presentación con un gancho persuasivo que cuestione una suposición común.",
+    "Difficulty_Tags": [
+      "comunicacion",
+      "presentaciones"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5136",
+    "Term_EN": "To formulate a hypothesis",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Formular una hipótesis",
+    "Pronunciation_ES": "tu FOR-miu-leit a jai-PA-de-sis",
+    "Mnemonic_Anchor": "Plantear una suposición clara y comprobable antes de correr el análisis.",
+    "Example_Sentence": "We formulate a hypothesis first so our exploration stays focused and structured.",
+    "Example_Translation": "Formulamos una hipótesis primero para que la exploración siga enfocada y estructurada.",
+    "Difficulty_Tags": [
+      "metodo",
+      "analitica"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5137",
+    "Term_EN": "Decision support tool",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Herramienta de apoyo a decisiones",
+    "Pronunciation_ES": "di-SI-zhon sa-PORT tul",
+    "Mnemonic_Anchor": "Un simulador o tablero diseñado para ayudar a elegir mejor, no solo a mirar cifras.",
+    "Example_Sentence": "The simulator acts as a decision support tool for territory resource planning.",
+    "Example_Translation": "El simulador funciona como herramienta de apoyo a decisiones para planear territorios.",
+    "Difficulty_Tags": [
+      "herramientas",
+      "bi"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5138",
+    "Term_EN": "Precision medicine",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Medicina de precisión",
+    "Pronunciation_ES": "pri-SI-zhon ME-di-sin",
+    "Mnemonic_Anchor": "Adaptar tratamientos y estrategias clínicas al perfil exacto del paciente.",
+    "Example_Sentence": "Precision medicine relies heavily on biomarker data and patient segmentation.",
+    "Example_Translation": "La medicina de precisión depende mucho de datos de biomarcadores y segmentación de pacientes.",
+    "Difficulty_Tags": [
+      "pharma",
+      "salud"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5139",
+    "Term_EN": "Right-time data delivery",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Entrega oportuna de datos",
+    "Pronunciation_ES": "rait TAIM DEI-ta di-LI-ve-ri",
+    "Mnemonic_Anchor": "Entregar el dato justo a tiempo para la reunión o decisión, ni tarde ni en vano.",
+    "Example_Sentence": "Right-time data delivery matters more than raw speed when decisions are weekly.",
+    "Example_Translation": "La entrega oportuna de datos importa más que la velocidad bruta cuando las decisiones son semanales.",
+    "Difficulty_Tags": [
+      "datos",
+      "operaciones"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5140",
+    "Term_EN": "To detect safety signals",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Detectar señales de seguridad",
+    "Pronunciation_ES": "tu di-TEKT SEIF-ti SIG-nals",
+    "Mnemonic_Anchor": "Captar una alerta temprana en los datos antes de que se vuelva un problema mayor.",
+    "Example_Sentence": "Analytics teams help detect safety signals early across reported field events.",
+    "Example_Translation": "Los equipos de analítica ayudan a detectar señales de seguridad temprano en eventos reportados.",
+    "Difficulty_Tags": [
+      "seguridad",
+      "pharma"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5141",
+    "Term_EN": "Long-term alignment",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Alineación a largo plazo",
+    "Pronunciation_ES": "long TERM a-LAIN-ment",
+    "Mnemonic_Anchor": "Que todos compartan la misma visión de largo plazo más allá del mes actual.",
+    "Example_Sentence": "Regular check-ins sustain long-term alignment between regional and local teams.",
+    "Example_Translation": "Los seguimientos periódicos sostienen la alineación a largo plazo entre equipos regionales y locales.",
+    "Difficulty_Tags": [
+      "alineacion",
+      "estrategia"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5142",
+    "Term_EN": "Rapid prototyping",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Prototipado rápido",
+    "Pronunciation_ES": "RA-pid PRO-to-tai-ping",
+    "Mnemonic_Anchor": "Armar un boceto funcional en horas o días para probarlo rápido con usuarios.",
+    "Example_Sentence": "Rapid prototyping lets stakeholders test layout and flow before full coding.",
+    "Example_Translation": "El prototipado rápido permite a los interesados probar diseño y flujo antes de programar todo.",
+    "Difficulty_Tags": [
+      "prototipo",
+      "agilidad"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5143",
+    "Term_EN": "Experimental design",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Diseño experimental",
+    "Pronunciation_ES": "iks-pe-ri-MEN-tal di-SAIN",
+    "Mnemonic_Anchor": "Definir grupo control, tratamiento y variables antes de lanzar una prueba.",
+    "Example_Sentence": "Sound experimental design isolates true lift from external market noise.",
+    "Example_Translation": "Un buen diseño experimental aísla el impacto real del ruido externo del mercado.",
+    "Difficulty_Tags": [
+      "experimentacion",
+      "estadistica"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5144",
+    "Term_EN": "Marketing attribution",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Atribución de marketing",
+    "Pronunciation_ES": "MAR-ke-ting a-tri-BIU-shon",
+    "Mnemonic_Anchor": "Asignar qué parte del resultado corresponde a cada canal o campaña.",
+    "Example_Sentence": "Marketing attribution shows which touchpoints actually move customers forward.",
+    "Example_Translation": "La atribución de marketing muestra qué puntos de contacto hacen avanzar realmente a los clientes.",
+    "Difficulty_Tags": [
+      "marketing",
+      "atribucion"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5145",
+    "Term_EN": "To capitalize on market trends",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Capitalizar tendencias del mercado",
+    "Pronunciation_ES": "tu KA-pi-ta-laiz on MAR-ket TRENDS",
+    "Mnemonic_Anchor": "Tomar la ola de una tendencia del mercado a tiempo para convertirla en ventaja.",
+    "Example_Sentence": "We capitalize on market trends by spotting demand shifts early in regional data.",
+    "Example_Translation": "Capitalizamos las tendencias del mercado detectando cambios de demanda temprano en datos regionales.",
+    "Difficulty_Tags": [
+      "mercado",
+      "oportunidad"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5146",
+    "Term_EN": "To mitigate technical debt",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Mitigar deuda técnica",
+    "Pronunciation_ES": "tu MI-ti-gueit TEK-ni-cal DET",
+    "Mnemonic_Anchor": "Ir pagando los atajos o parches del código y scripts antes de que frenen el equipo.",
+    "Example_Sentence": "We dedicate sprint capacity to mitigate technical debt in legacy scripts.",
+    "Example_Translation": "Dedicamos capacidad del sprint a mitigar deuda técnica en scripts heredados.",
+    "Difficulty_Tags": [
+      "tecnologia",
+      "mantenimiento"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5147",
+    "Term_EN": "Compelling value proposition",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Propuesta de valor convincente",
+    "Pronunciation_ES": "com-PE-ling VA-liu pro-po-SI-shon",
+    "Mnemonic_Anchor": "Explicar en pocas palabras por qué elegir esta solución frente a cualquier otra.",
+    "Example_Sentence": "A compelling value proposition connects analytical rigor directly to revenue growth.",
+    "Example_Translation": "Una propuesta de valor convincente conecta el rigor analítico directo con el crecimiento de ingresos.",
+    "Difficulty_Tags": [
+      "valor",
+      "comunicacion"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5148",
+    "Term_EN": "Data groundwork",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Trabajo de base / Fundación de datos",
+    "Pronunciation_ES": "DEI-ta GRAUND-work",
+    "Mnemonic_Anchor": "Preparar los cimientos y limpieza de datos antes de levantar modelos encima.",
+    "Example_Sentence": "Solid data groundwork makes advanced analytics faster and far more reliable.",
+    "Example_Translation": "Una buena fundación de datos hace que la analítica avanzada sea más rápida y confiable.",
+    "Difficulty_Tags": [
+      "datos",
+      "preparacion"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5149",
+    "Term_EN": "To provoke discussion",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Provocar discusión estratégica",
+    "Pronunciation_ES": "tu pro-VOUK dis-CA-shon",
+    "Mnemonic_Anchor": "Lanzar una pregunta o contraste que active un debate útil en la mesa.",
+    "Example_Sentence": "I share a provocative chart to provoke discussion around priority allocation.",
+    "Example_Translation": "Comparto un gráfico provocador para detonar discusión sobre asignación de prioridades.",
+    "Difficulty_Tags": [
+      "reuniones",
+      "debate"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5150",
+    "Term_EN": "To identify vulnerabilities",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Identificar vulnerabilidades",
+    "Pronunciation_ES": "tu ai-DEN-ti-fai val-ne-ra-BI-li-tis",
+    "Mnemonic_Anchor": "Detectar puntos débiles en un proceso o plan antes de que alguien más los golpee.",
+    "Example_Sentence": "Scenario testing helps identify vulnerabilities in our supply or sales assumptions.",
+    "Example_Translation": "Las pruebas de escenarios ayudan a identificar vulnerabilidades en nuestros supuestos.",
+    "Difficulty_Tags": [
+      "analisis",
+      "riesgos"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5151",
+    "Term_EN": "Comprehensive package",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Paquete integral de compensación",
+    "Pronunciation_ES": "com-pri-JEN-siv PA-kich",
+    "Mnemonic_Anchor": "Mirar la oferta completa: salario base, bonos y beneficios en conjunto.",
+    "Example_Sentence": "We evaluated the full comprehensive package rather than looking at base pay alone.",
+    "Example_Translation": "Evaluamos el paquete integral completo en lugar de mirar solo el salario base.",
+    "Difficulty_Tags": [
+      "compensacion",
+      "entrevistas"
+    ],
+    "Category": "Compensation & Benefits",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5152",
+    "Term_EN": "Supplemented by",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Complementado por",
+    "Pronunciation_ES": "sa-pli-MEN-ted bai",
+    "Mnemonic_Anchor": "Sumar un complemento extra que refuerza lo que ya existe.",
+    "Example_Sentence": "Base compensation is supplemented by performance bonuses and benefits.",
+    "Example_Translation": "La compensación base se complementa con bonos por desempeño y beneficios.",
+    "Difficulty_Tags": [
+      "compensacion",
+      "vocabulario-laboral"
+    ],
+    "Category": "Compensation & Benefits",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5153",
+    "Term_EN": "Private health insurance",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Medicina prepagada",
+    "Pronunciation_ES": "PRAI-vet jelz in-SHU-rans",
+    "Mnemonic_Anchor": "Cobertura médica privada o prepagada incluida como beneficio laboral.",
+    "Example_Sentence": "Private health insurance is included from day one for full-time employees.",
+    "Example_Translation": "La medicina prepagada está incluida desde el primer día para empleados de tiempo completo.",
+    "Difficulty_Tags": [
+      "beneficios",
+      "entrevistas"
+    ],
+    "Category": "Compensation & Benefits",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5154",
+    "Term_EN": "Advanced proficiency",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Dominio avanzado",
+    "Pronunciation_ES": "ad-VANST pro-FI-shon-si",
+    "Mnemonic_Anchor": "Manejar una herramienta o idioma con soltura y precisión en escenarios exigentes.",
+    "Example_Sentence": "The role requires advanced proficiency in SQL, Python, and data storytelling.",
+    "Example_Translation": "El puesto requiere dominio avanzado de SQL, Python y narrativa con datos.",
+    "Difficulty_Tags": [
+      "habilidades",
+      "entrevistas"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5155",
+    "Term_EN": "Data modeling",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Modelado de datos",
+    "Pronunciation_ES": "DEI-ta MO-de-ling",
+    "Mnemonic_Anchor": "Diseñar tablas, llaves y relaciones para que las consultas sean rápidas y claras.",
+    "Example_Sentence": "Clean data modeling prevents duplicate counts and simplifies DAX or SQL queries.",
+    "Example_Translation": "Un buen modelado de datos evita conteos duplicados y simplifica consultas en DAX o SQL.",
+    "Difficulty_Tags": [
+      "datos",
+      "bi"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5156",
+    "Term_EN": "Ranging from... to...",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Que va desde... hasta...",
+    "Pronunciation_ES": "REIN-chin from... tu...",
+    "Mnemonic_Anchor": "Marcar el rango completo desde un piso hasta un techo.",
+    "Example_Sentence": "Account sizes range from small regional pilots to multi-country rollouts.",
+    "Example_Translation": "El tamaño de las cuentas va desde pilotos regionales pequeños hasta despliegues multipaís.",
+    "Difficulty_Tags": [
+      "expresiones",
+      "presentaciones"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5157",
+    "Term_EN": "Workflow automation",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Automatización de flujos de trabajo",
+    "Pronunciation_ES": "WORK-flou o-to-mei-SHON",
+    "Mnemonic_Anchor": "Hacer que tareas repetitivas se ejecuten solas siguiendo un flujo definido.",
+    "Example_Sentence": "Workflow automation freed hours every week for higher-value analysis.",
+    "Example_Translation": "La automatización de flujos liberó horas cada semana para análisis de mayor valor.",
+    "Difficulty_Tags": [
+      "automatizacion",
+      "productividad"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5158",
+    "Term_EN": "Non-statutory meal allowance",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Bono de alimentación extra-legal",
+    "Pronunciation_ES": "non STA-chu-to-ri mil a-LAU-ans",
+    "Mnemonic_Anchor": "Un auxilio de alimentación otorgado por la empresa más allá de lo exigido por ley.",
+    "Example_Sentence": "The offer includes a non-statutory meal allowance on top of base salary.",
+    "Example_Translation": "La oferta incluye un bono de alimentación extra-legal encima del salario base.",
+    "Difficulty_Tags": [
+      "beneficios",
+      "compensacion"
+    ],
+    "Category": "Compensation & Benefits",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5159",
+    "Term_EN": "VBA and Macro development",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Desarrollo de Macros y VBA",
+    "Pronunciation_ES": "vi-bi-ei and MA-crou di-VE-lop-ment",
+    "Mnemonic_Anchor": "Programar rutinas automatizadas en Excel/Office para acelerar tareas de oficina.",
+    "Example_Sentence": "I maintain legacy VBA and macro development tools while migrating logic to Python.",
+    "Example_Translation": "Mantengo herramientas de desarrollo de macros y VBA mientras migro lógica a Python.",
+    "Difficulty_Tags": [
+      "excel",
+      "automatizacion"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5160",
+    "Term_EN": "To scope out",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Dimensionar / Evaluar",
+    "Pronunciation_ES": "tu SCOUP OUT",
+    "Mnemonic_Anchor": "Medir el alcance, tiempos y esfuerzo de un requerimiento antes de comprometerte.",
+    "Example_Sentence": "Let's scope out the data requirements before giving a final delivery date.",
+    "Example_Translation": "Dimensionemos los requerimientos de datos antes de dar una fecha final de entrega.",
+    "Difficulty_Tags": [
+      "alcance",
+      "planeacion"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5161",
+    "Term_EN": "Production-ready",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Listo para producción",
+    "Pronunciation_ES": "pro-DAK-shon RE-di",
+    "Mnemonic_Anchor": "Probado, estable y sin errores críticos para operar en el entorno real.",
+    "Example_Sentence": "We test edge cases thoroughly before marking any script as production-ready.",
+    "Example_Translation": "Probamos bien los casos borde antes de marcar cualquier script como listo para producción.",
+    "Difficulty_Tags": [
+      "calidad",
+      "desarrollo"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5162",
+    "Term_EN": "Overfitting",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Sobreajuste",
+    "Pronunciation_ES": "ou-ver-FI-ting",
+    "Mnemonic_Anchor": "Un modelo que memoriza el ruido de entrenamiento y falla con datos nuevos.",
+    "Example_Sentence": "Cross-validation helps catch overfitting before deploying a predictive model.",
+    "Example_Translation": "La validación cruzada ayuda a detectar sobreajuste antes de desplegar un modelo predictivo.",
+    "Difficulty_Tags": [
+      "ml",
+      "modelado"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5163",
+    "Term_EN": "Feature exploration",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Exploración de variables",
+    "Pronunciation_ES": "FI-cher eks-plo-REI-shon",
+    "Mnemonic_Anchor": "Revisar distribuciones, nulos y relaciones de cada variable antes de modelar.",
+    "Example_Sentence": "Careful feature exploration uncovered strong seasonal signals in the dataset.",
+    "Example_Translation": "Una exploración cuidadosa de variables descubrió señales estacionales fuertes en el dataset.",
+    "Difficulty_Tags": [
+      "eda",
+      "analitica"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5164",
+    "Term_EN": "To dive deep",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Profundizar / Analizar a fondo",
+    "Pronunciation_ES": "tu DAIV DIP",
+    "Mnemonic_Anchor": "Sumergirse hasta el fondo del agua para ver lo que no se nota desde arriba.",
+    "Example_Sentence": "Let's dive deep into the outlier segments after the high-level overview.",
+    "Example_Translation": "Profundicemos en los segmentos atípicos después de la visión general.",
+    "Difficulty_Tags": [
+      "analisis",
+      "reuniones"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5165",
+    "Term_EN": "To account for",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Explicar / Representar un porcentaje",
+    "Pronunciation_ES": "tu a-CAUNT for",
+    "Mnemonic_Anchor": "Dar cuenta de qué parte del total explica un factor o categoría.",
+    "Example_Sentence": "Two key channels account for over seventy percent of total volume.",
+    "Example_Translation": "Dos canales clave explican más del setenta por ciento del volumen total.",
+    "Difficulty_Tags": [
+      "metricas",
+      "reportes"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5166",
+    "Term_EN": "Undisputed leader",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Líder indiscutible / Sin rival",
+    "Pronunciation_ES": "an-dis-PIU-ted LI-der",
+    "Mnemonic_Anchor": "Ocupar el primer lugar con tanta claridad que nadie pone en duda el liderazgo.",
+    "Example_Sentence": "The brand remains an undisputed leader in its core therapeutic category.",
+    "Example_Translation": "La marca sigue siendo líder indiscutible en su categoría terapéutica principal.",
+    "Difficulty_Tags": [
+      "mercado",
+      "liderazgo"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5167",
+    "Term_EN": "To gain/lose share",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Ganar o perder cuota de mercado",
+    "Pronunciation_ES": "tu GUEN / LUS SHER",
+    "Mnemonic_Anchor": "Ver qué porción de la torta del mercado ganas o cedes frente a competidores.",
+    "Example_Sentence": "We track monthly share shifts to see where we gain or lose share.",
+    "Example_Translation": "Monitoreamos cambios mensuales de participación para ver dónde ganamos o perdemos cuota.",
+    "Difficulty_Tags": [
+      "market-share",
+      "negocios"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5168",
+    "Term_EN": "Sustained growth across...",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Crecimiento sostenido a lo largo de...",
+    "Pronunciation_ES": "sa-STEIND GROUZ a-CROS",
+    "Mnemonic_Anchor": "Una curva ascendente constante que se mantiene firme a través de periodos o regiones.",
+    "Example_Sentence": "We achieved sustained growth across key markets over the past four quarters.",
+    "Example_Translation": "Logramos un crecimiento sostenido en mercados clave durante los últimos cuatro trimestres.",
+    "Difficulty_Tags": [
+      "crecimiento",
+      "resultados"
+    ],
+    "Category": "Leadership & Interviews",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5169",
+    "Term_EN": "To leverage AI-powered enhancements",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Aprovechar mejoras impulsadas por IA",
+    "Pronunciation_ES": "tu LE-ve-rich ei-ai PAU-erd in-JANS-ments",
+    "Mnemonic_Anchor": "Sumar capacidades de IA para acelerar análisis, resúmenes o automatizaciones.",
+    "Example_Sentence": "We leverage AI-powered enhancements to speed up insight drafting and QA checks.",
+    "Example_Translation": "Aprovechamos mejoras impulsadas por IA para acelerar redacción de hallazgos y controles de calidad.",
+    "Difficulty_Tags": [
+      "ia",
+      "innovacion"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
+  },
+  {
+    "ID": "5170",
+    "Term_EN": "To align with best practices",
+    "CEFR_Level": "C1",
+    "Meaning_ES": "Alinear con mejores prácticas / Estándares",
+    "Pronunciation_ES": "tu a-LAIN wiz BEST PRAK-ti-ses",
+    "Mnemonic_Anchor": "Ajustar el proceso a los estándares más altos y probados de la industria.",
+    "Example_Sentence": "All new pipelines must align with best practices for documentation and testing.",
+    "Example_Translation": "Todos los flujos nuevos deben alinearse con mejores prácticas de documentación y pruebas.",
+    "Difficulty_Tags": [
+      "estandares",
+      "calidad"
+    ],
+    "Category": "Strategy & Analytics",
+    "Usage_Type": "Business & Interviews",
+    "Total_Freq": 1,
+    "Freq_Reuniones": 1,
+    "Freq_Correos": 0,
+    "Freq_Canciones": 0,
+    "Sources": [
+      "reuniones"
+    ]
   }
 ]
